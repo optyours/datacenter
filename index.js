@@ -1,2 +1,2 @@
-function getAge() {
+nction getAge() {
    10;
