@@ -1,3 +1,3 @@
 function getAge() {
-  return 10;
+  return 10
 }
