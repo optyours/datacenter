@@ -1,3 +1,3 @@
-function getAge() {
+unction getAge() {
    10;
 }
