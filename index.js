@@ -1,3 +1,3 @@
-unction getAge() {
+qunction getAge() {
    10;
 }
